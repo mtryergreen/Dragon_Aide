@@ -9,7 +9,7 @@ Say you're writing up a new set of encounters for a location that your players w
 ## How
 I'll create a bunch of repositories, or dictionaries in Python. Each will be titled something like "name dwarven", and it'll have ideally hundreds of named associated with that class or style. Once it gets bigger, I can make names more specific to a region in the given world, or DMs can plug in names of their own. Similar dictionaries will exist for "encounter" and "hook" or "monster". 
 
-The code for a single dictionary ("Human", for instance) will be in the form of a dictionary, so: Human = {Arran, Allan, Aldridge, Alaster}
+The code for a single dictionary ("Human", for instance) will be like so: Human = {Arran, Allan, Aldridge, Alaster}. 
 
 # Dictionaries
 ## NPCs
